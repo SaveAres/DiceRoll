@@ -1,0 +1,9 @@
+Aresu Matteo, Last Update changeLog 02/03/2020
+
+Versione 1.0 DiceRoll:
+	* Introdotta la possibilità di lanciare 7 tipi di dadi differenti
+
+Versione 2.0 DiceRoll:
+	* Introdotta una JLabel con il risultato dell'ultimo tiro
+	* Introdotta la cronologia dei tiri effettuati
+	* Introdotto un tasto per cancellare la cronologia
